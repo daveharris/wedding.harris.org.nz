@@ -4,7 +4,7 @@ permalink: /about/
 title: About Our Wedding
 modified: 2014-01-06
 image:
-  feature: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-frc3/1501436_10202622716189577_310672434_o.jpg
+  feature: us.jpg
 ---
 
 Michaela & Dave are going to be married on *May 31st 2104* in a simple, yet special ceremony in Wairarapa.
@@ -14,7 +14,7 @@ Michaela & Dave are going to be married on *May 31st 2104* in a simple, yet spec
 We are putting on a coach, with 2 pickup points:
 
 * If you choose to take the train, the coach will pick you up from Featherston Train Station at 10:15am.
-* If you choose to drive, park at [Peppers Parehua Martinborough](http://www.peppers.co.nz/parehua/), the coach will pick you up at 10:30am.    
+* If you choose to drive, park at [Peppers Parehua, Martinborough](http://www.peppers.co.nz/parehua/), the coach will pick you up at 10:30am.    
 
 The coach will then take you Gladstone Church.
 
@@ -29,7 +29,7 @@ The ceremony will be held at the lovely [Gladstone Church](https://sites.google.
 
 ### The Reception
 
-The reception will be held at [Peppers Parehua Martinborough](http://www.peppers.co.nz/parehua/) where a lunch will be served.
+The reception will be held at [Peppers Parehua, Martinborough](http://www.peppers.co.nz/parehua/) where a lunch will be served.
 
 <figure class="half">
   <img src="http://www.peppers.co.nz/portals/3/Assets/Parehua/Refresh/666x300-Peppers_Parehua_con.jpg"/>
