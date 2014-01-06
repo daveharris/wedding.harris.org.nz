@@ -1,16 +1,17 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Michaela & Dave's Wedding
+description:      The website for all the information about Michaela & Dave's special day
 logo:             site-logo.png
 disqus_shortname: 
-search:           true
+search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+# url:              http://wedding.harris.org.nz
+url:                http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Dave Harris
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          wedding@harris.org.nz
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -32,24 +33,26 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: //
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: RSVP
+    url: https://docs.google.com/a/harris.org.nz/forms/d/1j5iuLIHSixqdER17NgEvqR1MKODKS1E-cBv2mRfX1x8/viewform
     external: true
+  - title: Maps
+    url: /map/
+  - title: Accommodation
+    url: /accommodation/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Pacific/Auckland
 future:      true
 pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:title/
 
 kramdown:
   auto_ids: true
