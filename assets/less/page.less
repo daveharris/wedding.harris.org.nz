@@ -17,11 +17,14 @@ body {
 	ul {
 		display: inline-block;
 		vertical-align: top;
-		margin: 0 0 50px;
+		margin: 0 0 20px;
 		padding: 4px 20px;
 		background-color: @black;
 		.rounded(0 0 10px 10px);
 		.clearfix();
+		@media @medium {
+			margin-bottom: 50px;
+		}
 	}
 	li {
 		display: block;
@@ -46,55 +49,66 @@ body {
 	}
 }
 // Responsive nav toggle stuff
-#site-nav {
-	z-index: 9000;
-	display: none;
-	@media @medium {
-		-webkit-animation-duration: 1s;
-		-moz-animation-duration: 1s;
-		-o-animation-duration: 1s;
-		animation-duration: 1s;
-	}
-	&.closed {
-		@media @medium {
-			display: block;
-		}
-	}
-	&.opened {
-		display: block;
-		max-height: 100%;
-		li {
-			float: none;
-			@media @medium {
-				float: left;
-			}
-		}
+#site-nav ul {
+	@media @small {
+		padding-right: 0px;
+		padding-left: 0px;
 	}
 }
-.no-js #site-nav {
-	display: block;
-}	
-#nav-toggle { 
-	z-index: 9999;
-	display: block;
-	vertical-align: top;
-	margin: 0;
-	padding: 4px 20px;
-	background-color: @black;
-	.rounded(0);
-	@media @medium {
-		display: none;
+
+#site-nav ul li {
+	@media @small {
+		.font(12);
+		padding: 0px;
 	}
 }
+
+// #site-nav {
+// 	z-index: 9000;
+// 	display: none;
+// 	@media @medium {
+// 		-webkit-animation-duration: 1s;
+// 		-moz-animation-duration: 1s;
+// 		-o-animation-duration: 1s;
+// 		animation-duration: 1s;
+// 	}
+// 	&.closed {
+// 		@media @medium {
+// 			display: block;
+// 		}
+// 	}
+// 	&.opened {
+// 		display: block;
+// 		max-height: 100%;
+// 		li {
+// 			float: none;
+// 			@media @medium {
+// 				float: left;
+// 			}
+// 		}
+// 	}
+// }
+// .no-js #site-nav {
+// 	display: block;
+// }	
+// #nav-toggle { 
+// 	z-index: 9999;
+// 	display: block;
+// 	vertical-align: top;
+// 	margin: 0;
+// 	padding: 4px 20px;
+// 	background-color: @black;
+// 	.rounded(0);
+// 	@media @medium {
+// 		display: none;
+// 	}
+// }
 
 // Masthead
 // --------------------------------------------------
 .masthead {
-	margin-top: 40px;
+	margin-top: 0px;
 	.clearfix();
-	@media @medium {
-		margin-top: 0;
-	}
 	.wrap {
 		text-align: center;
 		max-width: 27.5em;
@@ -179,7 +193,7 @@ body {
 	border-bottom: 1px solid fade(@black,10);
 }
 .entry-feature-image {
-	margin: 20px 0 0;
+	margin: -35px 0 0;
 	width: 100%;
 	@media @medium {
 		margin-top: -75px;

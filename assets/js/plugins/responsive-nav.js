@@ -245,7 +245,7 @@ var responsiveNav = (function (window, document) {
     // Private methods
     _init: function () {
       addClass(nav, "closed");
-      this._createToggle();
+      // this._createToggle();
 
       addEvent(window, "load", this, false);
       addEvent(window, "resize", this, false);
@@ -269,30 +269,30 @@ var responsiveNav = (function (window, document) {
     },
 
     _createToggle: function () {
-      if (!opts.customToggle) {
-        var toggle = document.createElement("a");
-        toggle.innerHTML = opts.label;
-        setAttributes(toggle, {
-          "href": "#",
-          "id": "nav-toggle"
-        });
+      // if (!opts.customToggle) {
+      //   var toggle = document.createElement("a");
+      //   toggle.innerHTML = opts.label;
+      //   setAttributes(toggle, {
+      //     "href": "#",
+      //     "id": "nav-toggle"
+      //   });
 
-        if (opts.insert === "after") {
-          nav.parentNode.insertBefore(toggle, nav.nextSibling);
-        } else {
-          nav.parentNode.insertBefore(toggle, nav);
-        }
+      //   if (opts.insert === "after") {
+      //     nav.parentNode.insertBefore(toggle, nav.nextSibling);
+      //   } else {
+      //     nav.parentNode.insertBefore(toggle, nav);
+      //   }
 
-        navToggle = document.getElementById("nav-toggle");
-      } else {
-        var toggleEl = opts.customToggle.replace("#", "");
+      //   navToggle = document.getElementById("nav-toggle");
+      // } else {
+      //   var toggleEl = opts.customToggle.replace("#", "");
 
-        if (document.getElementById(toggleEl)) {
-          navToggle = document.getElementById(toggleEl);
-        } else {
-          throw new Error("The custom nav toggle you are trying to select doesn't exist");
-        }
-      }
+      //   if (document.getElementById(toggleEl)) {
+      //     navToggle = document.getElementById(toggleEl);
+      //   } else {
+      //     throw new Error("The custom nav toggle you are trying to select doesn't exist");
+      //   }
+      // }
     },
 
     _preventDefault: function(e) {
