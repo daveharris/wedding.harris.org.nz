@@ -7,7 +7,7 @@ image:
   feature: us.jpg
 ---
 
-Michaela & Dave are going to be married on *May 31st 2104* in a simple, yet special ceremony in Wairarapa.
+Michaela & Dave are going to be married on *May 31st 2014* in a simple, yet special ceremony in Wairarapa.
 
 ### The Beginning
 
