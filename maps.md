@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /map/
-title: Map
+permalink: /maps/
+title: Maps
 image:
   feature: dinner.jpg
 ---
