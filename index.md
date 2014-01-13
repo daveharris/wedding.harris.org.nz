@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Michaela & Dave's Special Day
+title: Michaela & Dave's Wedding
 image:
   feature: ring.jpg
 ---
 
 <blockquote>
-	<p>Michaela & Dave are going to be married on May 31st 2014 in a simple, yet special ceremony in Wairarapa.</p>
+	<p>Michaela & Dave are going to be married on May 31st 2014 in a simple, yet special ceremony in Wairarapa with lunch to follow.</p>
 </blockquote>
 
-If you haven't send back an RSVP please do so now! <a href="https://docs.google.com/a/harris.org.nz/forms/d/1j5iuLIHSixqdER17NgEvqR1MKODKS1E-cBv2mRfX1x8/viewform" class="btn" target="_blank">RSVP Form</a>
+If you haven't sent back an RSVP please do so now! <a href="https://docs.google.com/a/harris.org.nz/forms/d/1j5iuLIHSixqdER17NgEvqR1MKODKS1E-cBv2mRfX1x8/viewform" class="btn" target="_blank">RSVP Form</a>
 
 ### The Beginning
 
@@ -18,7 +18,7 @@ We are putting on a coach, with 2 pickup points:
 * If you choose to take the train, the coach will pick you up from Featherston Train Station at 10:15am.
 * If you choose to drive, park at [Peppers Parehua, Martinborough](http://www.peppers.co.nz/parehua/), the coach will pick you up at 10:30am.    
 
-The coach will then take you Gladstone Church.
+The coach will then take you to Gladstone Church.
 
 ### The Ceremony
 

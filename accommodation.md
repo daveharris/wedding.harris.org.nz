@@ -12,6 +12,6 @@ However, it is Queen's Birthday weekend so it will pay to book early.
 
 We recommend:
 
-* [Acorn Estate Motel, Greytown](http://www.acornestate.co.nz) - Our recommended motel. Nice utils and a short 20km drive from the reception.
-* [Peppers Parehua, Martinborough](http://www.peppers.co.nz/parehua) - Very nice but very expensive. Has benefit of being where reception is so no need to drive. Say you are part of our wedding and get a Winemaker's Cottege for $235/night
+* Various houses/apartments in Martinborough on [Book a Bach](http://www.bookabach.co.nz/baches-and-holiday-homes/search/locale/martinborough)
+* [Acorn Estate Motel, Greytown](http://www.acornestate.co.nz) - Our recommended motel. Nice units and a short 20km drive from the reception.
 * [Masterton Motor Lodge](http://www.masterton-motorlodge.co.nz) - Nice units, a 30 min drive from the reception though
