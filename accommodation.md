@@ -15,4 +15,3 @@ We recommend:
 * Various houses/apartments in Martinborough on [Book a Bach](http://www.bookabach.co.nz/baches-and-holiday-homes/search/locale/martinborough)
 * [Acorn Estate Motel, Greytown](http://www.acornestate.co.nz) - Our recommended motel. Nice units and a short 20km drive from the reception.
 * [Masterton Motor Lodge](http://www.masterton-motorlodge.co.nz) - Nice units, a 30 min drive from the reception though
-* This is a test
